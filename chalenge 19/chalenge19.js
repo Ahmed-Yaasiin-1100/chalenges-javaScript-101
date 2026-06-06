@@ -8,6 +8,10 @@
 // A function that takes a price and membership level and returns the final price
 // Call it with price 300 for each level
 
+// Output:
+// Gold: 240 NOK
+// Silver: 270 NOK
+// Basic: 285 NOK
 
 
 function discountCalculator(price , membership){
